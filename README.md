@@ -1,5 +1,6 @@
-This is your prelim laboratory exam.
+======
+Name: Jack Leonnard V. Manzano
 
-Use everything you learned (if there is) in solving this repository.
+-----
 
-Goodluck!
+Course: BSIT
